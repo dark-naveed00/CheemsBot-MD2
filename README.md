@@ -66,7 +66,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dark-naveed00/CheemsBot-MD2/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -105,7 +105,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD2
+git clone https://github.com/dark-naveed00/CheemsBot-MD2
 cd CheemsBot-MD2
 npm start
 ```
