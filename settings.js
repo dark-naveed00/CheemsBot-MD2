@@ -24,24 +24,24 @@ global.APIKeys = {
 global.owner = ['923032112917']
 global.premium = ['923032112917']
 global.ownernomer = '923032112917'
-global.ownername = '🦄Dream Guy 𝗔𝗬𝗔𝗭'
-global.botname = 'Cheems Bot MD V2'
-global.footer = '𝗔𝗬𝗔𝗭 Bot Inc.'
+global.ownername = '*Ɲ ᴏ ʙ ɪ ᴛ ᴀ*'
+global.botname = '*Ɲ ᴏ ʙ ɪ ᴛ ᴀ* Bot MD V2'
+global.footer = '*Ɲ ᴏ ʙ ɪ ᴛ ᴀ* Bot Inc.'
 global.ig = 'https//wa.me/923032112917'
 global.region = 'India, NorthEast, Mizoram'
 global.sc = 'https//wa.me/923032112917'
 global.myweb = 'https//wa.me/923032112917'
-global.packname = '𝗔𝗬𝗔𝗭'
-global.author = '🦄Dream Guy 𝗔𝗬𝗔𝗭'
+global.packname = '*Ɲ ᴏ ʙ ɪ ᴛ ᴀ*'
+global.author = '*Ɲ ᴏ ʙ ɪ ᴛ ᴀ*'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    admin: 'Ye Feature Admin K LiYe hai bro🍃!',
+    botAdmin: 'Yaar main admin nahi hoon🥲!',
+    owner: 'Ye Feature owner k LiYe hai😉!',
+    group: 'Ye Feature group main use hota💙!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'In Process...',
@@ -61,7 +61,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/cheemspic.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/nobita.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
